@@ -15,7 +15,7 @@ public class Vowelalphacount {
 			}
 			
 		}
-		System.out.println(vowel);
-		System.out.println(nonvowel);
+		System.out.println("Vowel is"+vowel);
+		System.out.println("Nonvowel is"+nonvowel);
 	}	
 }
